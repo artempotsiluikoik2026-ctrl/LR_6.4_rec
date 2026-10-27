@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 6.4 \u0440\u0435\u043A\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3B3B575B-5251-9595-CC57-C425EE8C35F0}|test\\test.vcxproj|C:\\Users\\potsi\\source\\repos\\\u041B\u0420 6.4 \u0440\u0435\u043A\\test\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3B3B575B-5251-9595-CC57-C425EE8C35F0}|test\\test.vcxproj|solutionrelative:test\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5559084D-558E-4419-B183-D8DB01853096}|\u041B\u0420 6.4 \u0440\u0435\u043A\\\u041B\u0420 6.4 \u0440\u0435\u043A.vcxproj|C:\\Users\\potsi\\source\\repos\\\u041B\u0420 6.4 \u0440\u0435\u043A\\\u041B\u0420 6.4 \u0440\u0435\u043A\\\u041B\u0420 6.4 \u0440\u0435\u043A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5559084D-558E-4419-B183-D8DB01853096}|\u041B\u0420 6.4 \u0440\u0435\u043A\\\u041B\u0420 6.4 \u0440\u0435\u043A.vcxproj|solutionrelative:\u041B\u0420 6.4 \u0440\u0435\u043A\\\u041B\u0420 6.4 \u0440\u0435\u043A.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 6.4 \u0440\u0435\u043A\\test\\test.cpp",
+              "RelativeDocumentMoniker": "test\\test.cpp",
+              "ToolTip": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 6.4 \u0440\u0435\u043A\\test\\test.cpp",
+              "RelativeToolTip": "test\\test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-27T08:50:36.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "\u041B\u0420 6.4 \u0440\u0435\u043A.cpp",
               "DocumentMoniker": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 6.4 \u0440\u0435\u043A\\\u041B\u0420 6.4 \u0440\u0435\u043A\\\u041B\u0420 6.4 \u0440\u0435\u043A.cpp",
               "RelativeDocumentMoniker": "\u041B\u0420 6.4 \u0440\u0435\u043A\\\u041B\u0420 6.4 \u0440\u0435\u043A.cpp",
               "ToolTip": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 6.4 \u0440\u0435\u043A\\\u041B\u0420 6.4 \u0440\u0435\u043A\\\u041B\u0420 6.4 \u0440\u0435\u043A.cpp",
               "RelativeToolTip": "\u041B\u0420 6.4 \u0440\u0435\u043A\\\u041B\u0420 6.4 \u0440\u0435\u043A.cpp",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAUwI0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAI0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-10-25T21:43:21.077Z",
               "EditorCaption": ""
